@@ -1,7 +1,11 @@
-## Oii! Eu sou a Lorena Ávila
+<div align="center">
+  
+  # Hi there!!
+  
+</div>
 
-
-- 🌱 Estudando Algoritmos e estruturas de dados
+- 👩🏻‍💻 Me chamo Lorena Ávila
+- 🌱 Faço faculdade de engenharia de computação no CEFET MG campus Divinópolis
 - 📫 contate-me: lorenaavila15@outlook.com
 - 😄 Pronouns: ela/dela
 
