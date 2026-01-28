@@ -1,71 +1,89 @@
 <div align="center">
   <h1>Olá, eu sou a Lorena Ávila 🌸</h1>
+  <h3>Desenvolvedora Back-end | Engenharia de Computação</h3>
+  
   <p><em>Estudante de Engenharia de Computação no CEFET-MG</em></p>
-    
-  <a href="https://www.linkedin.com/in/lorena-%C3%A1-b40b03205" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25">
-  </a>
-  <a href="mailto:lorenaavila15@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" height="25">
-  </a>
+  
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRkNzBkZjNhZjNhMmQ4YzQ4NzBkZjNhZjNhMmQ4YzQ4NzBkZjNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
 </div>
 
 <br>
 
-### 👩🏻‍💻 Sobre Mim
+## 👩🏻‍💻 Sobre Mim
 
-Gosto de resolver problemas complexos através do código.  
-Atualmente, meu foco está no desenvolvimento **back-end**, fortalecendo minha lógica e construindo bases sólidas em software.
+Sou apaixonada por resolver problemas complexos através do código e criar soluções que façam a diferença. Atualmente, meu foco está no desenvolvimento **back-end**, onde busco constantemente fortalecer minha lógica de programação e construir bases sólidas em engenharia de software.
 
-- 🎓 **Educação:** Engenharia de Computação — CEFET-MG (Divinópolis)
-- 🧠 **Interesses:** Lógica de Programação, POO, Estrutura de Dados e Algoritmos
-- 🌱 **Evolução:** Estudo contínuo em Java e C++
+- 🎓 **Formação:** Engenharia de Computação — CEFET-MG
+- 🧠 **Foco atual:** Desenvolvimento Back-end e Algoritmos
+- 🌱 **Aprendizado contínuo:** Java, C++ e boas práticas de programação
+- 💼 **Objetivo:** Estágio em desenvolvimento de software
+- 💡 **Interesses:** Lógica de Programação, POO, Estruturas de Dados
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-#### 💻 Linguagens
+**💻 Linguagens de Programação**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java">
+<img width="12">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++">
+<img width="12">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C">
+<img width="12">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP">
 
 <br><br>
 
-#### 🌐 Web & Ferramentas
+**🌐 Desenvolvimento Web & Ferramentas**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5">
+<img width="12">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3">
+<img width="12">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub">
 
 </div>
 
----
+<br>
 
-### 📊 Minha Atividade no GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenaavila20&show_icons=true&theme=dark&title_color=f3a4c7&text_color=e6e6e6&icon_color=f3a4c7&bg_color=0d1117&hide_border=true&count_private=true" height="150" alt="Stats da Lorena" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenaavila20&layout=compact&langs_count=6&theme=dark&title_color=f3a4c7&text_color=e6e6e6&bg_color=0d1117&hide_border=true" height="150" alt="Linguagens da Lorena" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorenaavila20&show_icons=true&theme=dark&title_color=f3a4c7&text_color=e6e6e6&icon_color=f3a4c7&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenaavila20&layout=compact&langs_count=8&theme=dark&title_color=f3a4c7&text_color=e6e6e6&bg_color=0d1117&hide_border=true" height="165">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorenaavila20&bg_color=0d1117&color=f3a4c7&line=f3a4c7&point=e6e6e6&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorenaavila20&theme=dark&hide_border=true&background=0D1117&stroke=F3A4C7&ring=F3A4C7&fire=F3A4C7&currStreakLabel=F3A4C7">
 </div>
 
----
+<br>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorenaavila20&bg_color=0d1117&color=f3a4c7&line=f3a4c7&point=e6e6e6&area=true&hide_border=true" width="100%">
+</div>
 
-### 🤍 Vamos conversar?
-Estou aberta a oportunidades de estágio e colaboração em tecnologia.
+<br>
+
+## 🌸 Vamos Conectar?
+
+<div align="center">
   
-[![E-mail](https://img.shields.io/badge/Envie%20um%20e--mail-f3a4c7?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lorenaavila15@outlook.com)
+Estou aberta a oportunidades de **estágio**, **projetos colaborativos** e **networking** na área de tecnologia.
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20nos%20conectar-f3a4c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-%C3%A1-b40b03205)
+[![Email](https://img.shields.io/badge/Email-Envie%20uma%20mensagem-f3a4c7?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lorenaavila15@outlook.com)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f3a4c7&height=120&section=footer">
 
 </div>
