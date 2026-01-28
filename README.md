@@ -2,7 +2,7 @@
   <h1>Olá, eu sou a Lorena Ávila 🌸</h1>
   <p><em>Estudante de Engenharia de Computação no CEFET-MG</em></p>
     
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/lorena-%C3%A1-b40b03205" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25">
   </a>
   <a href="mailto:lorenaavila15@outlook.com">
@@ -14,11 +14,12 @@
 
 ### 👩🏻‍💻 Sobre Mim
 
-Sou apaixonada por resolver problemas através do código. Atualmente, meu foco está no desenvolvimento **Backend**, aprimorando minha lógica e construindo bases sólidas em software.
+Gosto de resolver problemas complexos através do código.  
+Atualmente, meu foco está no desenvolvimento **back-end**, fortalecendo minha lógica e construindo bases sólidas em software.
 
-* 🎓 **Educação:** Engenharia de Computação @ CEFET-MG (Divinópolis).
-* 🧠 **Interesses:** Lógica de Programação, POO, Estrutura de Dados e Algoritmos.
-* 🌱 **Evolução:** Dedicando tempo diário para aprimorar minhas habilidades em Java e C++.
+- 🎓 **Educação:** Engenharia de Computação — CEFET-MG (Divinópolis)
+- 🧠 **Interesses:** Lógica de Programação, POO, Estrutura de Dados e Algoritmos
+- 🌱 **Evolução:** Estudo contínuo em Java e C++
 
 ---
 
@@ -26,9 +27,20 @@ Sou apaixonada por resolver problemas através do código. Atualmente, meu foco 
 
 <div align="center">
 
-| Linguagens | Frontend & Ferramentas |
-| :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/> |
+#### 💻 Linguagens
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+
+<br><br>
+
+#### 🌐 Web & Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 
 </div>
 
