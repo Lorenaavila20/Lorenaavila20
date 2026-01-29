@@ -26,12 +26,9 @@ Sou apaixonada por resolver problemas complexos através do código e criar solu
 
 Este é o meu trabalho mais importante, demonstrando proficiência em algoritmos complexos e análise de dados.
 
-> **AOMI-Graph-Centrality** implementa computacionalmente a pesquisa:
-> **"Modelagem e Otimização de Rotas de Navios Coletores de Microplásticos em Grandes Massas Oceânicas Utilizando Teoria dos Grafos e Algoritmos de Caminho Mínimo"**
+> **AOMI-Graph-Centrality** é uma pesquisa de otimização de rotas para coleta de microplásticos, utilizando **Teoria dos Grafos** e **Algoritmo de Dijkstra** adaptado para otimização multiobjetivo (custo-densidade).
 > 
-> **Resumo:** A solução integra **Teoria dos Grafos**, **Algoritmo de Dijkstra** adaptado para otimização multiobjetivo (custo-densidade), detecção de comunidades via Louvain, e dados reais da base AOMI (Atlantic and Oceanic Microplastics Index) para identificar estratégias eficientes de coleta de poluentes marinhos.
-> 
-> **Achado Principal:** Apenas duas comunidades oceânicas (Índico e Atlântico Sul) concentram **85,77%** da carga total de microplásticos em **23,15%** do território, fundamentando uma alocação de frota altamente eficiente.
+> **Impacto:** A análise de dados reais (base AOMI) revelou que apenas duas comunidades oceânicas concentram **85,77%** da carga total de microplásticos em **23,15%** do território, permitindo uma alocação de frota altamente eficiente.
 > 
 > **Tecnologias Chave:** Java, Algoritmos de Grafos, Otimização Multiobjetivo.
 > 
