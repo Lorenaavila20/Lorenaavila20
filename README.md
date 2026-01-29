@@ -5,7 +5,7 @@
   <p><em>Estudante de Engenharia de Computação no CEFET-MG</em></p>
   
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRkNzBkZjNhZjNhMmQ4YzQ4NzBkZjNhZjNhMmQ4YzQ4NzBkZjNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRkNzBkZjNhZjNhMmQ4YzQ4NzBkZjNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="GIF decorativo de desenvolvimento">
 </div>
 
 <br>
@@ -22,51 +22,70 @@ Sou apaixonada por resolver problemas complexos através do código e criar solu
 
 <br>
 
+## 🌟 Projeto em Destaque: AOMI-Graph-Centrality
+
+Este é o meu trabalho mais importante, demonstrando proficiência em algoritmos complexos e análise de dados.
+
+> **AOMI-Graph-Centrality** implementa computacionalmente a pesquisa:
+> **"Modelagem e Otimização de Rotas de Navios Coletores de Microplásticos em Grandes Massas Oceânicas Utilizando Teoria dos Grafos e Algoritmos de Caminho Mínimo"**
+> 
+> **Resumo:** A solução integra **Teoria dos Grafos**, **Algoritmo de Dijkstra** adaptado para otimização multiobjetivo (custo-densidade), detecção de comunidades via Louvain, e dados reais da base AOMI (Atlantic and Oceanic Microplastics Index) para identificar estratégias eficientes de coleta de poluentes marinhos.
+> 
+> **Achado Principal:** Apenas duas comunidades oceânicas (Índico e Atlântico Sul) concentram **85,77%** da carga total de microplásticos em **23,15%** do território, fundamentando uma alocação de frota altamente eficiente.
+> 
+> **Tecnologias Chave:** Java, Algoritmos de Grafos, Otimização Multiobjetivo.
+> 
+> [![Repositório](https://img.shields.io/badge/Ver%20Projeto-AOMI--Graph--Centrality-f3a4c7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorenaavila20/AOMI-Graph-Centrality)
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **💻 Linguagens de Programação**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" alt="Java">
 <img width="12">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++" alt="C++">
 <img width="12">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" alt="C">
 <img width="12">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" alt="PHP">
 
 <br><br>
 
 **🌐 Desenvolvimento Web & Ferramentas**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" alt="HTML5">
 <img width="12">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" alt="CSS3">
 <img width="12">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" alt="GitHub">
 
 </div>
 
 <br>
+
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenaavila20&show_icons=true&theme=dark&title_color=f3a4c7&text_color=e6e6e6&icon_color=f3a4c7&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenaavila20&layout=compact&langs_count=8&theme=dark&title_color=f3a4c7&text_color=e6e6e6&bg_color=0d1117&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorenaavila20&show_icons=true&theme=dark&title_color=f3a4c7&text_color=e6e6e6&icon_color=f3a4c7&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorenaavila20&layout=compact&langs_count=8&theme=dark&title_color=f3a4c7&text_color=e6e6e6&bg_color=0d1117&hide_border=true" height="165" alt="Top Langs">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorenaavila20&theme=dark&hide_border=true&background=0D1117&stroke=F3A4C7&ring=F3A4C7&fire=F3A4C7&currStreakLabel=F3A4C7">
+  <!-- Link corrigido e estável para o Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Lorenaavila20&theme=dark&hide_border=true&background=0D1117&stroke=F3A4C7&ring=F3A4C7&fire=F3A4C7&currStreakLabel=F3A4C7&cache_bust=20260129" alt="GitHub Streak">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorenaavila20&bg_color=0d1117&color=f3a4c7&line=f3a4c7&point=e6e6e6&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorenaavila20&bg_color=0d1117&color=f3a4c7&line=f3a4c7&point=e6e6e6&area=true&hide_border=true" width="100%" alt="Activity Graph">
 </div>
 
 <br>
@@ -79,11 +98,11 @@ Estou aberta a oportunidades de **estágio**, **projetos colaborativos** e **net
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos%20nos%20conectar-f3a4c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-%C3%A1-b40b03205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-f3a4c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-%C3%A1-b40b03205)
 [![Email](https://img.shields.io/badge/Email-Envie%20uma%20mensagem-f3a4c7?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lorenaavila15@outlook.com)
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f3a4c7&height=120&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f3a4c7&height=120&section=footer" alt="Footer">
 
 </div>
